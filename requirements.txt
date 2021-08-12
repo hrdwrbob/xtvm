@@ -1,0 +1,8 @@
+mido
+python-rtmidi
+unidecode
+asyncio
+math
+scipy
+apscheduler
+winrt
